@@ -1,4 +1,4 @@
-## Hi there 👋
+## 🚀 Hi, I'm Riya 👋
 
 <!--
 **riyashanbhag/riyashanbhag** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+ 🌟 About Me
+🎓 Undergraduate Engineering Student at MIT Manipal | 💻 Tech Enthusiast
+
+
+💻 Technologies & Skills
+Programming Languages: Java, C, JavaScript, HTML, CSS, SQLPlus 
+
+📫 Connect With Me
+📧 Email: riyshanbhag@gmail.com
