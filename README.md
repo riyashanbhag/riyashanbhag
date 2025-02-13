@@ -1,25 +1,11 @@
-## 🚀 Hi, I'm Riya 👋
+<h3>🚀 Hi, I'm Riya 👋</h3>
 
-<!--
-**riyashanbhag/riyashanbhag** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3>🌟 About Me</h3>
+🎓 Undergraduate Engineering Student at MIT Manipal  
+💻 Tech Enthusiast  
 
-Here are some ideas to get you started:
+<h3>💻 Technologies & Skills</h3>
+<strong>Programming Languages:</strong> Java, C, JavaScript, HTML, CSS, SQLPlus  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
- 🌟 About Me
-🎓 Undergraduate Engineering Student at MIT Manipal | 💻 Tech Enthusiast
-
-
-💻 Technologies & Skills
-Programming Languages: Java, C, JavaScript, HTML, CSS, SQLPlus 
-
-📫 Connect With Me
-📧 Email: riyshanbhag@gmail.com
+<h3>📫 Connect With Me</h3>
+📧 Email: riyshanbhag@gmail.com  
