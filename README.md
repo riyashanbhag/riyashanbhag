@@ -8,4 +8,8 @@
 <strong>Programming Languages:</strong> Java, C, JavaScript, HTML, CSS, SQLPlus  
 
 <h3>📫 Connect With Me</h3>
-📧 Email: riyshanbhag@gmail.com  
+
+- 📧 Email: [riyshanbhag@gmail.com](mailto:riyshanbhag@gmail.com)  
+- 💼 LinkedIn: [linkedin.com/in/riya-shanbhag](https://www.linkedin.com/in/riya-shanbhag/)  
+- 👩‍💻 LeetCode: [leetcode.com/RiyaShanbhag](https://leetcode.com/u/RiyaShanbhag/)
+
