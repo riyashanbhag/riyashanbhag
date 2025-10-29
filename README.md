@@ -1,15 +1,29 @@
-<h3>🚀 Hi, I'm Riya 👋</h3>
+# Hi there, I'm Riya 👋
 
-<h3>🌟 About Me</h3>
-🎓 Undergraduate Engineering Student at MIT Manipal  
-💻 Tech Enthusiast  
+## 🌟 About Me
 
-<h3>💻 Technologies & Skills</h3>
-<strong>Programming Languages:</strong> Java, C, JavaScript, HTML, CSS, SQLPlus  
+I'm a pre- final year engineering student at **MIT Manipal** with a passion for technology and problem-solving. I love exploring new technologies and building projects that make a difference.
 
-<h3>📫 Connect With Me</h3>
+- 🎓 Currently pursuing my Engineering degree at MIT Manipal
+- 💡 Interested in software development and algorithm design
+- 🌱 Always learning and growing my technical skills
 
-- 📧 Email: [riyshanbhag@gmail.com](mailto:riyshanbhag@gmail.com)  
-- 💼 LinkedIn: [linkedin.com/in/riya-shanbhag](https://www.linkedin.com/in/riya-shanbhag/)  
-- 👩‍💻 LeetCode: [leetcode.com/RiyaShanbhag](https://leetcode.com/u/RiyaShanbhag/)
 
+## 💻 Technologies & Skills
+
+**Languages:**
+```
+Java • C • JavaScript • HTML • CSS • SQL
+```
+
+**Currently Learning:** Expanding my knowledge in web development and data structures
+
+## 📫 Let's Connect!
+
+I'm always open to connecting with fellow developers and tech enthusiasts!
+
+- 📧 **Email:** [riyshanbhag@gmail.com](mailto:riyshanbhag@gmail.com)
+- 💼 **LinkedIn:** [linkedin.com/in/riya-shanbhag](https://linkedin.com/in/riya-shanbhag)
+- 👩‍💻 **LeetCode:** [leetcode.com/RiyaShanbhag](https://leetcode.com/RiyaShanbhag)
+
+---
