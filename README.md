@@ -13,7 +13,7 @@ I'm a pre- final year engineering student at **MIT Manipal** with a passion for 
 
 **Languages:**
 ```
-Java • C • JavaScript • HTML • CSS • SQL
+Java • C • JavaScript • HTML • CSS • SQL • Node.js
 ```
 
 **Currently Learning:** Expanding my knowledge in web development and data structures
