@@ -22,8 +22,7 @@ I'm a pre - final year engineering student at MIT Manipal with a passion for tec
 [![NodeJS](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)](https://nodejs.org/)
 [![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)](https://www.mongodb.com/)
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=riyashanbhag&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
+
 
 
 
