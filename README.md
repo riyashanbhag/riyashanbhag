@@ -1,7 +1,7 @@
 # Hi there, I'm Riya 
 
 # 💫 About Me:
-I'm a pre - final year engineering student at MIT Manipal with a passion for technology and problem-solving. I love exploring new technologies and building projects that make a difference.<br><br>Currently pursuing my Engineering degree at MIT Manipal<br>Interested in software development and algorithm design<br>Always learning and growing my technical skills
+I'm a final year engineering student at MIT Manipal with a passion for technology and problem-solving. I love exploring new technologies and building projects that make a difference.<br><br>Currently pursuing my Engineering degree at MIT Manipal<br>Interested in software development and algorithm design<br>Always learning and growing my technical skills
 
 
 ## 🌐 Socials:
